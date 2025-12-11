@@ -1,4 +1,3 @@
-output_string.py
 """
 Output string formatting functions for network analysis.
 Each function formats a specific piece of network information.
